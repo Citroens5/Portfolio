@@ -60,3 +60,8 @@ footer {
     background-color: #ddd;
     margin-top: 2rem;
 }
+
+.credits {
+    font-size: 0.8rem;
+    color: #666;
+}
